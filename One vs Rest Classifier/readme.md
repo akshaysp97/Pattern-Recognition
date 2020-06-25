@@ -1,3 +1,4 @@
+# One vs Rest Classifier
 In this project, a nearest-means classifier with the multiclass approach: one vs. rest was developed for the wine dataset.
 The following metrics are calculated:
 (a) Classification accuracy on training set and on testing set.
